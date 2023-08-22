@@ -11,4 +11,4 @@ This is a small project to learn more about jQuery
 
 ### Link:
 
-https://fujamate.github.io/to-do-list-jQuery/
+https://fujamate.github.io/Intro-to-JavaScript/
